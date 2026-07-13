@@ -23,4 +23,8 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
