@@ -16,3 +16,11 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 [![](https://komarev.com/ghpvc/?username=ritambanerjee3456&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1291-sequential-digits) |
+<!---LeetCode Topics End-->
