@@ -27,4 +27,16 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
