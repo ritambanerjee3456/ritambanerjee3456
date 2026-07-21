@@ -32,6 +32,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Two Pointers
 |  |
@@ -41,8 +42,21 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
