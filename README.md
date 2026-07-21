@@ -27,6 +27,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
