@@ -39,6 +39,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0074-search-a-2d-matrix) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
