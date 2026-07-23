@@ -46,6 +46,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0031-next-permutation](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
