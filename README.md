@@ -51,6 +51,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0075-sort-colors](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -67,6 +68,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -119,6 +121,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
