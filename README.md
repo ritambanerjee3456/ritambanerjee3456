@@ -88,6 +88,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,5 +119,6 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
