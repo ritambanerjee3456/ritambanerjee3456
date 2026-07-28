@@ -31,6 +31,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0053-maximum-subarray) |
@@ -70,6 +71,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 ## Counting
@@ -88,6 +90,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0540-single-element-in-a-sorted-array) |
