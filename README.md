@@ -89,6 +89,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0206-reverse-linked-list) |
 ## Binary Search
@@ -121,6 +122,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0876-middle-of-the-linked-list) |
