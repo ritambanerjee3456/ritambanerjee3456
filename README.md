@@ -54,6 +54,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0142-linked-list-cycle-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -95,6 +96,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0021-merge-two-sorted-lists](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -129,6 +132,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0142-linked-list-cycle-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
