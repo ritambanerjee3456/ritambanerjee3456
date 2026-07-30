@@ -41,6 +41,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -83,6 +84,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0053-maximum-subarray](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -106,12 +108,14 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0004-median-of-two-sorted-arrays](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
 | ------- |
