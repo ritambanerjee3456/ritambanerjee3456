@@ -82,6 +82,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0012-integer-to-roman](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -132,6 +133,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0014-longest-common-prefix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0242-valid-anagram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
