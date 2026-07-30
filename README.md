@@ -42,6 +42,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0136-single-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -57,6 +58,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0148-sort-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -70,6 +72,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0033-search-in-rotated-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
