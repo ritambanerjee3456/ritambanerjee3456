@@ -125,6 +125,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0151-reverse-words-in-a-string) |
