@@ -93,6 +93,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
@@ -157,6 +158,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0092-reverse-linked-list-ii) |
@@ -168,6 +170,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0148-sort-list) |
 ## Sliding Window
 |  |
@@ -178,4 +181,8 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
