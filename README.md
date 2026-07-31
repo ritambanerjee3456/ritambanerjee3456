@@ -52,6 +52,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0075-sort-colors) |
@@ -154,6 +155,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0061-rotate-list) |
