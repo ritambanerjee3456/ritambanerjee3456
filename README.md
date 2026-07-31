@@ -62,6 +62,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0151-reverse-words-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0151-reverse-words-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -168,6 +171,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
