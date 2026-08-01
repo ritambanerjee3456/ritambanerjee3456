@@ -29,6 +29,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0007-reverse-integer](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -138,6 +139,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0012-integer-to-roman](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0205-isomorphic-strings) |
@@ -152,6 +154,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0043-multiply-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
