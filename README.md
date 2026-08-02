@@ -48,6 +48,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0240-search-a-2d-matrix-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -158,6 +159,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0020-valid-parentheses](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -200,6 +202,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0503-next-greater-element-ii) |
 ## Queue
 |  |
 | ------- |
