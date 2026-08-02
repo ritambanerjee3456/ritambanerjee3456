@@ -67,6 +67,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -152,6 +153,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0242-valid-anagram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -160,11 +162,13 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0503-next-greater-element-ii) |
+| [0844-backspace-string-compare](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0043-multiply-strings) |
+| [0844-backspace-string-compare](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
