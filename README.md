@@ -90,6 +90,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
@@ -105,6 +106,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0151-reverse-words-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -197,4 +200,8 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
