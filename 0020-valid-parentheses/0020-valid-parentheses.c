@@ -7,9 +7,10 @@ bool isValid(char* s) {
             stack[top] = s[i];
         }
         else {
-             if(top == -1)  {
+            if(top == -1)  {
                 return false;
             }
+             
             if(stack[top] ==  '(' && s[i] != ')'){
                 return false;
             }
@@ -19,6 +20,7 @@ bool isValid(char* s) {
              if(stack[top] ==  '{' && s[i] != '}'){
                 return false;
             }
+            
            
             top --;   
         }
