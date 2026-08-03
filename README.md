@@ -31,6 +31,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0013-roman-to-integer](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0088-merge-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0287-find-the-duplicate-number) |
@@ -159,6 +161,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0503-next-greater-element-ii) |
