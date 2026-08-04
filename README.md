@@ -158,6 +158,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0205-isomorphic-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -168,6 +169,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0084-largest-rectangle-in-histogram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0503-next-greater-element-ii) |
@@ -217,6 +219,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0503-next-greater-element-ii) |
@@ -232,4 +235,8 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0456-132-pattern) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
