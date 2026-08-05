@@ -57,6 +57,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0735-asteroid-collision](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/2073-time-needed-to-buy-tickets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0735-asteroid-collision](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/2073-time-needed-to-buy-tickets) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
