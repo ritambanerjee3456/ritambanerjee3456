@@ -51,6 +51,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0240-search-a-2d-matrix-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0540-single-element-in-a-sorted-array) |
