@@ -60,6 +60,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0950-reveal-cards-in-increasing-order](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/2073-time-needed-to-buy-tickets) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0242-valid-anagram) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Bit Manipulation
 |  |
 | ------- |
