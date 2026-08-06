@@ -56,6 +56,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0540-single-element-in-a-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/2073-time-needed-to-buy-tickets) |
 ## Two Pointers
@@ -83,6 +84,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0148-sort-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0242-valid-anagram) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0043-multiply-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
@@ -231,6 +234,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0387-first-unique-character-in-a-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/2073-time-needed-to-buy-tickets) |
 ## Range Minimum/Maximum Query
 |  |
