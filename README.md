@@ -204,6 +204,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0148-sort-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
