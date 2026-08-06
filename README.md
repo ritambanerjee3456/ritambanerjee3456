@@ -162,6 +162,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0402-remove-k-digits](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -176,6 +177,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0503-next-greater-element-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
