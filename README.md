@@ -39,6 +39,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0014-longest-common-prefix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0074-search-a-2d-matrix) |
@@ -100,6 +101,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0205-isomorphic-strings) |
@@ -148,6 +150,7 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
@@ -258,10 +261,12 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0051-n-queens) |
 ## Design
 |  |
@@ -271,4 +276,8 @@ A Student pursuing Btech in EE from IEM , Kolkata<br>Learning Tech skills<br>Mac
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0901-online-stock-span) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ritambanerjee3456/ritambanerjee3456/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
